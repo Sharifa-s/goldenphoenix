@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820351597233",
+    "project_id": "goldenphoenix-fe3c7",
+    "storage_bucket": "goldenphoenix-fe3c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820351597233:android:6dda50e6c82c4d52f44090",
+        "android_client_info": {
+          "package_name": "com.example.goldenphoenix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQKXfC6i50Kafj08M8etj1eVR4YPt80ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
